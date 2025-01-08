@@ -26,7 +26,7 @@ Bài tập này bao gồm các thuật toán và cấu trúc dữ liệu phổ b
 
 Nếu bạn sử dụng Maven, hãy thêm phụ thuộc vào file `pom.xml` của bạn:
 
-```xml
+
 <dependencies>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
@@ -41,13 +41,16 @@ Nếu bạn sử dụng Maven, hãy thêm phụ thuộc vào file `pom.xml` củ
         <scope>test</scope>
     </dependency>
 </dependencies>
-###3.Nếu sử dụng Gradle,
+
+
+### 3.Nếu sử dụng Gradle,
  thêm vào file build.gradle:
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.1'
 }
+
 link chatgpt https://chatgpt.com/c/677dfffc-729c-8013-9a60-dddab7a5ac64
 ![Screenshot (327)](https://github.com/user-attachments/assets/1888a006-054d-4d67-b8d6-71bd7e2134a9)
 
