@@ -49,5 +49,6 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.1'
 }
 link chatgpt https://chatgpt.com/c/677dfffc-729c-8013-9a60-dddab7a5ac64
-![Screenshot (327)](https://github.com/user-attachments/assets/d53ddc11-6c8a-4c7f-a45e-7dbd29a921f1)
+![Screenshot (327)](https://github.com/user-attachments/assets/1888a006-054d-4d67-b8d6-71bd7e2134a9)
+
 
