@@ -8,14 +8,6 @@
 4. **Cấu trúc dữ liệu Ngăn xếp (Stack)**
 5. **Cấu trúc dữ liệu Hàng đợi (Queue)**
 
-## Mục Lục
-
-- [Giới Thiệu](#giới-thiệu)
-- [Cài Đặt](#cài-đặt)
-- [Kiểm Thử với JUnit](#kiểm-thử-với-junit)
-- [Chạy Ứng Dụng](#chạy-ứng-dụng)
-- [Giới Thiệu Về Các Thuật Toán](#giới-thiệu-về-các-thuật-toán)
-
 ## Giới Thiệu
 
 Bài tập này bao gồm các thuật toán và cấu trúc dữ liệu phổ biến trong lập trình Java. Các thuật toán này được kiểm thử bằng JUnit để đảm bảo tính đúng đắn.
@@ -49,7 +41,9 @@ Nếu bạn sử dụng Maven, hãy thêm phụ thuộc vào file `pom.xml` củ
         <scope>test</scope>
     </dependency>
 </dependencies>
-### 3. Nếu sử dụng Gradle, thêm vào file build.gradle:
+###3.Nếu sử dụng Gradle,
+ thêm vào file build.gradle:
+
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.1'
